@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏽
 
 
 I'm Jarrod, a field biologist, systems ecologist, data scientist, and interdisciplinary researcher. My main area of research is microbial ecology.
