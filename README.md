@@ -23,7 +23,7 @@ A few little details about me.
       <code>R</code> <code>React</code> <code>Go</code>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/bocasbiome">⚡ BocasBiome</a></h4>
+      <h4><a href="https://github.com/bocasbiome"> 🐠 BocasBiome</a></h4>
       <p>Reproducible bioinformatic workflows for the study <a href="https://doi.org/10.1038/s42003-022-03679-0">The gut microbiome stability of a butterflyfish is disrupted on severely degraded Caribbean reef habitats</a>.</p>
       <code>Python</code> <code>R</code> 
     </td>
@@ -32,7 +32,7 @@ A few little details about me.
   <!-- Row 2: Projects 3 & 4 -->
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/sweltr/high-temp">🌐 SWELTR</a></h4>
+      <h4><a href="https://github.com/sweltr/high-temp">🌡️ SWELTR</a></h4>
       <p>Reproducible bioinformatic workflows for the study <a href="https://doi.org/10.1038/s41564-022-01200-1">Microbial diversity declines in warmed tropical soil and respiration rise exceed predictions as communities adapt.</a>.</p>
       <code>R</code> <code>Quarto</code> <code>anvi'o</code>
     </td>
@@ -45,6 +45,6 @@ A few little details about me.
   <!-- Row 3: Projects 5 & 6 -->
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/projectdigest/web/tree/master">🌐 Project DIGEST</a></h4>
+      <h4><a href="https://github.com/projectdigest/web/tree/master">🐠 Project DIGEST</a></h4>
       <p>Reproducible bioinformatic workflows for the study <a href="https://doi.org/10.1098/rspb.2019.2367">Intestinal microbes: an axis of functional diversity among large marine consumers</a>.</p>
       <code>R</code> <code>R Markdown</code> 
